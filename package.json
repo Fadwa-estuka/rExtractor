@@ -1,0 +1,13 @@
+{
+  "title": "Data record Extraction",
+  "name": "data.extraction",
+  "version": "1.0.0",
+  "description": "Visually extract data records from web pages",
+  "main": "index.js",
+  "author": "FadwaEstuka",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
